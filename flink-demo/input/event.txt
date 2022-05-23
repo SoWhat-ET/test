@@ -1,0 +1,8 @@
+张三,www.baidu.com,1000
+李四,www.google.com,2000
+王五,www.hao123.com,3000
+赵六,www.apple.com,4000
+张三,blog.ddup.cloud,5000
+李华,blog.ddup.cloud,6000
+李四,blog.ddup.cloud,7000
+张三,blog.ddup.cloud,9000
